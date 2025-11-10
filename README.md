@@ -14,3 +14,26 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# Week 3 React + Tailwind Assignment
+
+## 🚀 Live Demo
+[View the deployed app](https://react-indol-pi.vercel.app/)
+
+## 🛠️ Tech Stack
+- React.js
+- Vite
+- Tailwind CSS
+- React Router
+- JSONPlaceholder API
+
+## 📦 Features
+- Reusable components (Button, Card)
+- Custom hooks (`useFetch`)
+- API integration (Posts from JSONPlaceholder)
+- Responsive styling with Tailwind
+- Routing with React Router
+
+## 👨‍💻 Author
+Manaen31
