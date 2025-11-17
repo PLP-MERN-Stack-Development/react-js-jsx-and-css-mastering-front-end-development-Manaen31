@@ -1,16 +1,25 @@
-# React + Vite
+# Week 3 React + Tailwind App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of the Week 3 assignment for mastering front-end development using React, Tailwind CSS, and Vite. It demonstrates reusable components, responsive design, and clean routing with React Router.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View deployed app on Vercel](https://wk3-52qx.vercel.app/)
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React** 19.2.0
+- **Vite** 5.0.0
+- **Tailwind CSS** 4.1.17
+- **React Router DOM** 7.9.6
+- **ESLint** with React Hooks and Refresh plugins
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Manaen31/week3.git
+cd week3/week3-react-app
+npm install
+npm run dev
